@@ -1,0 +1,23 @@
+h1,
+h2 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+p,
+a,
+button {
+    font-family: 'Roboto', sans-serif;
+}
+
+.main-button {
+    color: #fff;
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+}
+
+.main-button:hover {
+    color: #fff;
+}
+
+.banner-area {
+    padding-bottom: 150px;
+}
