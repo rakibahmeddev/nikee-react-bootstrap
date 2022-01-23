@@ -21,3 +21,7 @@ button {
 .banner-area {
     padding-bottom: 150px;
 }
+
+.custom-features {
+    margin-top: 100px !important;
+}
